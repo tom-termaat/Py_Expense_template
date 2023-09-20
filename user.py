@@ -1,4 +1,6 @@
 from PyInquirer import prompt
+import csv
+
 user_questions = [
     {
         "type":"input",
